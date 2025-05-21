@@ -1,6 +1,3 @@
-### For: YOLOv8 & Explainability Notebooks
-
-```markdown
 # 📸 YOLOv8 & Explainability Study
 
 This folder contains exploratory notebooks focused on computer vision model behavior — particularly using YOLOv8 for object detection and applying interpretability tools like Grad-CAM or SHAP to understand what the model "sees."
