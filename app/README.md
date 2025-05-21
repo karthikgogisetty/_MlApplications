@@ -8,8 +8,8 @@ This folder contains code for detecting skin cancer using deep learning. The mod
 
 | File                          | Description |
 |------------------------------|-------------|
-| `skinCancer.ipynb`           | Step-by-step classification pipeline using a CNN for skin lesion diagnosis. Includes data preprocessing, training, and evaluation. |
-| `mvip_cancer_detection.ipynb`| A project variant (possibly optimized) used for presentation or deployment in the MVIP context. May include augmented visualizations or modular design. |
+| `skin_cancer_pre_processing.ipynb`           | Step-by-step classification pipeline using a CNN for skin lesion diagnosis. Includes data preprocessing, training, and evaluation. |
+| `mvip_cancer_cls.ipynb`| A project variant (possibly optimized) used for presentation or deployment in the MVIP context. May include augmented visualizations or modular design. |
 
 ---
 
