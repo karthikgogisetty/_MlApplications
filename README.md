@@ -8,7 +8,7 @@ This repository showcases practical implementations of machine learning techniqu
 
 | Folder        | Description |
 | ------------- | ----------- |
-| `app/`        | Contains deployed or deployable ML applications. Currently includes skin cancer detection using CNNs. |
+| `app/`        | Contains ML applications. Currently includes skin cancer classification & covid xray classification using different CNNs. |
 | `study/`      | Experimental notebooks exploring model behavior, such as YOLOv8 inference and explainability using Grad-CAM and SHAP. |
 
 ---
